@@ -1,11 +1,14 @@
 import Sample from "./pages/Sample"
+import Flow from "./pages/Flow"
+
+
 
 function App() {
 
 
   return (
     <>
-      <Sample/>
+      <Flow/>
     </>
   )
 }
